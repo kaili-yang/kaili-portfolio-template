@@ -19,7 +19,7 @@ export type ProjectItemType = {
   // projects 
   export const projects: Array<ProjectItemType> = [
     {
-      name: 'GitHub Cards',
+      name: 'Youtube Cards',
       description:
         'Showcase your GitHub contributions into stunning visual cards.',
       link: { href: 'github.cards', label: 'GitHub Cards' },
